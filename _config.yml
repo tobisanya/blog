@@ -18,7 +18,6 @@ timezone:          Africa/Lagos
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-baseurl:           /blog
 permalink:         /articles/:year-:month/:title
 
 kramdown:
