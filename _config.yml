@@ -6,7 +6,7 @@
 title: tobisanya's blog
 email:
 description: Just a way to share my thoughts, opinions, and experiences
-url: https://tobisanya.github.io
+url: https://tobisanya.github.io/blog
 
 
 #
@@ -19,7 +19,7 @@ markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
 baseurl:           /blog
-permalink:         /{{ site.baseurl }}/articles/:year-:month/:title
+permalink:         /articles/:year-:month/:title
 
 kramdown:
   auto_ids: true
